@@ -7,4 +7,4 @@
 - Vite
 
 # Screen Shot:
-![Output](screenshot/Screenshot.png)
+![Output](screenshot/Screenshot-min.png)
